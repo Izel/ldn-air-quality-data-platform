@@ -52,6 +52,19 @@ The platform follows a layered (medallion-style) architecture:
 
 ---
 
+## 🛡️ Data Governance
+
+This platform includes a lightweight data governance approach to ensure data quality, consistency, and usability:
+
+- Data validation and cleaning in the Silver layer  
+- Structured and documented datasets  
+- Controlled access to data resources  
+- Clear data flow across layers  
+
+This approach improves trust and supports better decision-making.
+
+---
+
 ## 🔍 Key Insights
 
 (Example — to be updated with real results)
