@@ -28,8 +28,7 @@ The platform follows a layered (medallion-style) architecture:
 * **Silver layer** → Cleaned and standardized data
 * **Gold layer** → Aggregated, analytics-ready data
 
-(Data flow diagram coming soon)
-
+![Architecture Diagram](architecture/architecture_diagram.png)
 ---
 
 ## ⚙️ Tech Stack
